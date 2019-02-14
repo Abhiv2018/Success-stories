@@ -1,6 +1,30 @@
 
 
 
+h1{
+
+	color: purple;
+	
+	
+}
+body{
+	font-family:cursive;
+	background-color: ghostwhite;
+}
+
+
+.footer {
+	padding: 20px;
+   position:relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: green;
+   color: white;
+   text-align: center;
+	text-decoration: none;
+}
+
 a {
  -webkit-transition: .25s all;
  transition: .25s all;
